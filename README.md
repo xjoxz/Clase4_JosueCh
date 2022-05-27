@@ -1,6 +1,6 @@
-#BIOINFORMÁTICA 2022-I
+# BIOINFORMÁTICA 2022-I
 
-##ESTRUCTURAS DE CONTROL
+## ESTRUCTURAS DE CONTROL
 
 -if
 
@@ -10,7 +10,7 @@
 
 -for
 
-##EQUIVALENCIAS
+## EQUIVALENCIAS
 
 - Mayor  (gt)
 - Menor  (ls)
@@ -18,7 +18,7 @@
 - Mayor o igual que  (ge)
 - Igual (eq)
 
-##EJECUCIÓN
+## EJECUCIÓN
 
 -En este repositorio se tiene almacenado todos los archivos sh que se crearon el día de la clase.
 
