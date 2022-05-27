@@ -24,4 +24,4 @@
 
 -Uso de Gitbash para crear los archivos sh y con el comando nano para editar las diferentes estrucuturas de control.
 
--Uso de GitHub Desktop para el control de la versioó
+-Uso de GitHub Desktop para el control de la versión
